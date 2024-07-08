@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a40e5f4e-0d0b-43a7-8eed-637d75abfab8" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/gamejframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/loginjframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/registerjframe.java" afterDir="false" />
-    </list>
+    <list default="true" id="a40e5f4e-0d0b-43a7-8eed-637d75abfab8" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +46,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/pintugame/shijian/src/Main.java",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
@@ -68,13 +64,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app" />
-      <module name="pintugame" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.app" />
@@ -89,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720223633498</updated>
-      <workItem from="1720223634537" duration="53755000" />
+      <workItem from="1720223634537" duration="55263000" />
     </task>
     <servers />
   </component>
@@ -97,38 +86,8 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="1c5f8f6f-100e-4cb2-8297-4baf05135365" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="1c5f8f6f-100e-4cb2-8297-4baf05135365">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="structure">
-                    <value>
-                      <list>
-                        <option value="dir:C:/Users/LENOVO/IdeaProjects/pintugame/src" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-            </State>
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State>
